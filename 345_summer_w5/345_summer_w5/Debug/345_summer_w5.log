@@ -1,0 +1,13 @@
+﻿  w5.cpp
+c:\users\sebastian\desktop\oop345_summer\345_summer_w5\345_summer_w5\w5.cpp(60): warning C4309: 'static_cast': truncation of constant value
+  c:\users\sebastian\desktop\oop345_summer\345_summer_w5\345_summer_w5\grades.h(27): note: see reference to function template instantiation 'auto main::<lambda_d7899a45352d1a56d6380a7e65c53d14>::operator ()<double>(double) const' being compiled
+  c:\users\sebastian\desktop\oop345_summer\345_summer_w5\345_summer_w5\w5.cpp(77): note: see reference to function template instantiation 'void sict::Grades::displayGrades<main::<lambda_d7899a45352d1a56d6380a7e65c53d14>>(std::ostream &,F)' being compiled
+          with
+          [
+              F=main::<lambda_d7899a45352d1a56d6380a7e65c53d14>
+          ]
+c:\users\sebastian\desktop\oop345_summer\345_summer_w5\345_summer_w5\w5.cpp(62): warning C4309: 'static_cast': truncation of constant value
+c:\users\sebastian\desktop\oop345_summer\345_summer_w5\345_summer_w5\w5.cpp(64): warning C4309: 'static_cast': truncation of constant value
+c:\users\sebastian\desktop\oop345_summer\345_summer_w5\345_summer_w5\w5.cpp(66): warning C4309: 'static_cast': truncation of constant value
+  345_summer_w5.vcxproj -> C:\Users\Sebastian\Desktop\OOP345_summer\345_summer_w5\Debug\345_summer_w5.exe
+  345_summer_w5.vcxproj -> C:\Users\Sebastian\Desktop\OOP345_summer\345_summer_w5\Debug\345_summer_w5.pdb (Partial PDB)
